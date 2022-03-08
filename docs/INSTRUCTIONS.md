@@ -63,10 +63,10 @@ P: Schetst om gedachten en processen te verkennen.
 
 Deze opdracht is done als:
 
--[] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
--[] Er is een Control Flow uitgewerkt met logica / structuur van je code
--[] De Control flow toont pseudo-code die nodig is voor het laden van data, renderen van HTML en tonen van de states
--[] De Activity Diagram is gedocumenteerd in de Readme van de leertaak
+-[ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
+-[ ] Er is een Control Flow uitgewerkt met logica / structuur van je code
+-[ ] De Control flow toont pseudo-code die nodig is voor het laden van data, renderen van HTML en tonen van de states
+-[ ] De Activity Diagram is gedocumenteerd in de Readme van de leertaak
 
 
 
