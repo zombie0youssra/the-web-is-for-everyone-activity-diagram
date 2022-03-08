@@ -1,190 +1,72 @@
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+# Keep Uses in Control - Activity Diagram
 
-# {Naam}
-
-{Beschrijving van de leertaak}.
+Activity Diagram uitwerken 
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
+
+In het college _S08W1 - Activity Diagram_ wordt behandeld wat een activity Diagram is.
 
 
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Leren hoe je een Activity Diagram moet tekenen op basis van een User Story
 
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
+
+
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Opdracht: Maak een Activity Diagram voor jouw opdracht.
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+![image](https://user-images.githubusercontent.com/1391509/157330009-4e885beb-e7bf-4037-9723-7535f822b908.png)
 
-### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+Deze opdracht gaat over de [ontwerpen](#ontwerp) fase van de DLC.
 
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal analysefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wireflow en de Control Flow van een applicatie te combineren.
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Teken op basis van je User Stories een wireflow met alle states van de UI-Stack, de Empty state, Loading state en Error state
+2. Voeg aan de wireflow een _swimlane_ toe voor de control flow
+3. Schrijf pseudo-code voor de GET request, het renderen van de html en voor het tonen van de UI-Stack
+
+
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
+- [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804)
+- [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
+- [What's a Program Flowchart? | Definition & Examples](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
 </details>
 
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ## Criteria
-*Definitions of done*
-
-{beschrijf de definitions of done}
-
-Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van de student verwacht, welke mindset is nodig. Succes ervaren.
-
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
-
-Focus sprint 3 - De focus in deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Je maakt iets voor een mens. Praten met een mens, doorvragen, protoypen en testen en resultaten gebruiken.
-
-Focus sprint 4 - De focus in deze sprint ligt op het toepassen van een huisstijl en maken van formulieren. Living styleguide en Atomic design, Animeren, Toegankelijke formulieren.
-
-Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
-
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
-
-Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.	Het doel van deze sprint is binding tussen studenten creeeren. Met deze squad ga je het doen! Samen studeren, leren en elkaar helpen. En iets gezamenlijks maken met een database dingen. Een sneak peak naar de rest van het semester.
 
 Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
 dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
 
-Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren				
+Deze leertaak hoort bij het gedragscriterium:
 
-Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet.
+P: Schetst om gedachten en processen te verkennen.
 
-Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. Job Stories, wireflowing, realtime en data management.
+Deze opdracht is done als:
 
-Focus sprint 12 - De focus van deze sprint ligt op werkwijze en samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. Iteratief (samen) werken: prototypen en testen om een concept te realiseren.
+- [] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
+- [] Er is een Control Flow uitgewerkt met logica / structuur van je code
+- [] De Control flow toont pseudo-code die nodig is voor het laden van data, renderen van HTML en tonen van de states
+- [] De Activity Diagram is gedocumenteerd in de Readme van de leertaak
+
 
 
