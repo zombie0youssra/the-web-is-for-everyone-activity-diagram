@@ -1,13 +1,13 @@
 
 # Keep Uses in Control - Activity Diagram
 
-Activity Diagram uitwerken 
+Activity Diagram schetsen. 
 
 ## Context
 
 Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W1-02 - Activity Diagram_ wordt behandeld wat een activity Diagram is.
+In het college _S08W1-02 - Activity Diagram_ wordt behandeld wat een Activity Diagram is.
 
 
 
