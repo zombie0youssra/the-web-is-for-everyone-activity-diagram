@@ -9,8 +9,8 @@
 ## Activity Diagram
 <!-- Toon de activity Diagram -->
 
-## Code 
-<!-- Leg de code in de control fow uit -->
+## Uitleg pseudo-code 
+<!-- Leg de pseudo-code in de control fow uit -->
 
 
 ## Licentie
