@@ -7,25 +7,24 @@ Activity Diagram uitwerken
 
 Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W1 - Activity Diagram_ wordt behandeld wat een activity Diagram is.
+In het college _S08W1-02 - Activity Diagram_ wordt behandeld wat een activity Diagram is.
 
 
 
 
 ## Doel van deze opdracht
 
-Leren hoe je een Activity Diagram moet tekenen op basis van een User Story
-
+Leren hoe je een Activity Diagram moet tekenen met logica / structuur van je code om data te laden, hthml te renderen en states van de UI-Stackte tonen.
 
 
 
 ## Werkwijze
 
-Opdracht: Maak een Activity Diagram voor jouw opdracht.
+Opdracht: Maak een Activity Diagram voor de opdracht die je uitvoert voor een opdrachtgever.
 
 ![image](https://user-images.githubusercontent.com/1391509/157330009-4e885beb-e7bf-4037-9723-7535f822b908.png)
 
-Deze opdracht gaat over de [ontwerpen](#ontwerp) fase van de DLC.
+Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 
 ### Ontwerpen
