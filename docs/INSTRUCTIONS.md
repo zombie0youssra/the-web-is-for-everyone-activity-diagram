@@ -34,9 +34,6 @@ Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wireflow en de Control Flow van een applicatie te combineren.
 
-<details>
-<summary>Aanpak</summary>
-
 1. Teken op basis van je User Stories een wireflow met alle states van de UI-Stack, de Empty state, Loading state en Error state
 2. Voeg aan de wireflow een _swimlane_ toe voor de control flow
 3. Schrijf pseudo-code voor de GET request, het renderen van de html en voor het tonen van de UI-Stack
@@ -50,7 +47,6 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 - [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [What's a Program Flowchart? | Definition & Examples](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
-</details>
 
 
 
