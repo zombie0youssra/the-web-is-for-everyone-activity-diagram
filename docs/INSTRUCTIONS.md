@@ -22,7 +22,6 @@ Leren hoe je een Activity Diagram moet tekenen met logica / structuur van je cod
 
 Opdracht: Maak een Activity Diagram voor de opdracht die je uitvoert voor een opdrachtgever.
 
-![image](https://user-images.githubusercontent.com/1391509/157333707-e30debea-c699-4c7d-b8c3-5e1ccccb4338.png)
 
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
