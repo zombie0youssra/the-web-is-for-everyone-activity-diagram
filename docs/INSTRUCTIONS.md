@@ -1,14 +1,17 @@
 
-# Keep Uses in Control - Activity Diagram
+# The Web is for Everyone - Activity Diagram
 
 Activity Diagram schetsen. 
 
 ## Context
 
-Deze leertaak hoort bij sprint 8 "Keep users in Control". Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
 
 In het college _S08W1-02-State-Flow-en-Feedback_ wordt behandeld wat een Activity Diagram is.
 
+Deze deeltaak hoort de leertaak:
+- [
+the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/the-web-is-for-everyone-interactive-functionality) 
 
 
 
