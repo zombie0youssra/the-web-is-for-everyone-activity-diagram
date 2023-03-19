@@ -61,7 +61,7 @@ dat betekent veel voor de interfcace, het laden van de data kost tijd en de data
 
 Deze leertaak hoort bij het gedragscriterium:
 
-P: Schetst om gedachten en processen te verkennen.
+P: Je schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen
 
 Deze opdracht is done als:
 
