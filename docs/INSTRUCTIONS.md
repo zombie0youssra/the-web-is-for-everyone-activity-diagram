@@ -14,7 +14,7 @@ In het college _S08W1-02-Activity-Diagram_ wordt behandeld wat een Activity Diag
 
 ## Doel van deze opdracht
 
-Leren hoe je een Activity Diagram moet tekenen met logica / structuur van je code om data te laden, html te renderen en states van de UI-Stackte tonen.
+Leren hoe je een Activity Diagram moet tekenen met logica / structuur van je code om data te laden, html te renderen en states van de UI-Stack te tonen.
 
 
 
