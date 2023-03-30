@@ -6,15 +6,11 @@
 ## User Story
 <!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
 
-## Activity Diagram
-<!-- Toon de activity Diagram -->
-
-## Uitleg pseudo-code 
+## Control Flow
+<!-- Toon de Control Flow Diagram -->
 <!-- Leg de pseudo-code in de control fow uit -->
 
 
 ## Licentie
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-This work is licensed under [GNU GPLv3](./LICENSE).
