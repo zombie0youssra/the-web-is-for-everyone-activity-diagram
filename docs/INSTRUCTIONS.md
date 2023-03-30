@@ -1,7 +1,7 @@
 
-# The Web is for Everyone - Control Flow Diagram
+# The Web is for Everyone - Control Flow
 
-Control FLow schetsen. 
+Schets de Control FLow van een interactieve toepassing. 
 
 ## Context
 
@@ -17,13 +17,13 @@ the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/
 
 ## Doel van deze opdracht
 
-Leren hoe je een Control FLow moet tekenen met logica / structuur van je code om data te laden, html te renderen en states van de UI-Stack te tonen.
+Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden en te posten.
 
 
 
 ## Werkwijze
 
-Opdracht: Maak een Control Flow Diagram voor de opdracht die je uitvoert voor een opdrachtgever.
+Opdracht: Schets de Control Flow voor de opdracht die je uitvoert voor een opdrachtgever.
 
 
 
