@@ -1,13 +1,13 @@
 
-# The Web is for Everyone - Activity Diagram
+# The Web is for Everyone - Control Flow Diagram
 
-Activity Diagram schetsen. 
+Control FLow schetsen. 
 
 ## Context
 
 Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W1-02-State-Flow-en-Feedback_ wordt behandeld wat een Activity Diagram is.
+In het college _S08W1-02-State-Flow-en-Feedback_ wordt behandeld wat een Control Flow is en hoe je dit kan schetsen
 
 Deze deeltaak hoort de leertaak:
 - [
@@ -17,13 +17,13 @@ the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/
 
 ## Doel van deze opdracht
 
-Leren hoe je een Activity Diagram moet tekenen met logica / structuur van je code om data te laden, html te renderen en states van de UI-Stack te tonen.
+Leren hoe je een Control FLow moet tekenen met logica / structuur van je code om data te laden, html te renderen en states van de UI-Stack te tonen.
 
 
 
 ## Werkwijze
 
-Opdracht: Maak een Activity Diagram voor de opdracht die je uitvoert voor een opdrachtgever.
+Opdracht: Maak een Control Flow Diagram voor de opdracht die je uitvoert voor een opdrachtgever.
 
 
 
@@ -42,9 +42,9 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 
 #### Materiaal ontwerpfase
 
-- [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
-- [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804)
 - [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
+- [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
+<!-- - [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804) -->
 - [What's a Program Flowchart? | Definition & Examples](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
 
 
@@ -61,9 +61,9 @@ P: Je schetst om gedachten en processen te verkennen en abstracte begrippen over
 
 Deze opdracht is done als:
 
-- [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt
+<!-- - [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt -->
 - [ ] Er is een Control Flow uitgewerkt met logica / structuur van je code
-- [ ] De Control flow toont pseudo-code die nodig is voor het laden van data, renderen van HTML en tonen van de verschillende states van de UI-Stack
+- [ ] De Control flow toont pseudo-code die nodig is voor het laden van data en renderen van HTML
 - [ ] De Activity Diagram is gedocumenteerd in de Readme van de leertaak
 
 
