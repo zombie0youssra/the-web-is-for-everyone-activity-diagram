@@ -17,7 +17,7 @@ the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/
 
 ## Doel van deze opdracht
 
-Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden en te posten.
+Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden (GET)m te posten (POST) en te renderen naar HTML (EJS).
 
 
 
