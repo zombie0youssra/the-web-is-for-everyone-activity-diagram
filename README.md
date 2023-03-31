@@ -3,13 +3,12 @@
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-## User Story
-<!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
+## User Stories
+<!-- Schrijf hier de User Stories waar de Control Flow over gaat-->
 
 ## Control Flow
-<!-- Toon de Control Flow Diagram -->
+<!-- Toon het Control Flow Diagram -->
 <!-- Leg de pseudo-code in de control fow uit -->
-
 
 ## Licentie
 
