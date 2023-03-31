@@ -30,30 +30,29 @@ Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 ### Ontwerpen
 
-een Control Flow toont de logica / structuur van je code. 
+Een Control Flow toont de logica / structuur van je code:
 
-<!-- 1. Schrijf eerst de User Stories waar je mee bezig bent op.  -->
 1. Teken eerst een sitemap van alle pagina's
-2. Schrijf per pagina de _route_ er bij
-3. Werk eerst alle routes uit met een GET request en welke data er wordt meegestuurd met de render
-5. Werk daarna de POST request uit, de data die wordt meegestuurd en wat er daarna wordt gerenderd
+2. Schrijf per pagina de url er bij
+3. Werk alle _routes_ uit in een Control Fow diagram
+4. Per _route_ schets je de functies die worden uitgevoerd t/m de ejs
+5. Noteer ook welke url wordt meegestuurd met een fetch en welke data wordt doorgegeven
 
 
 #### Materiaal ontwerpfase
 
-- Bron met hoe je een site masp tekent. 
+- [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 - [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
-<!-- - [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804) -->
-- [What's a Program Flowchart? | Definition & Examples](https://www.edrawsoft.com/flowchart/program-flowchart-definition.html)
+
+
 
 
 
 
 ## Criteria
 
-Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen.
-dat betekent veel voor de interfcace, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart.
+Focus sprint 9 - De focus van deze sprint ligt op Progressive Enhancement, toegankelijkheid en testresultaten gebruiken voor het verbeteren van een ontwerp.
 
 Deze leertaak hoort bij het gedragscriterium:
 
@@ -61,10 +60,9 @@ P: Je schetst om gedachten en processen te verkennen en abstracte begrippen over
 
 Deze opdracht is done als:
 
-<!-- - [ ] Er is een Wireflow getekend waarin de verschillende states van de UI-Stack zijn uitgewerkt -->
-- [ ] Er is een Control Flow uitgewerkt met logica / structuur van je code
-- [ ] De Control flow toont pseudo-code die nodig is voor het laden van data en renderen van HTML
-- [ ] De Activity Diagram is gedocumenteerd in de Readme van de leertaak
+- [ ] Er is een Control Flow uitgewerkt met logica / structuur van je Node-code
+- [ ] De Control Flow toont pseudo-code die nodig is voor het laden van data, het posten van data en renderen van HTML
+- [ ] De Control Flow is gedocumenteerd in de Readme van de leertaak
 
 
 
