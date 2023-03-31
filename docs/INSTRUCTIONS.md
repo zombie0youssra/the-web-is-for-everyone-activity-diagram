@@ -59,7 +59,7 @@ Deze opdracht is done als:
 
 - [ ] Er is een Control Flow uitgewerkt met logica / structuur van je Node-code
 - [ ] De Control Flow toont pseudo-code die nodig is voor het laden van data, het posten van data en renderen van HTML
-- [ ] De Control Flow is gedocumenteerd in de Readme van de leertaak
+- [ ] De Control Flow is gedocumenteerd in de Wiki van de leertaak
 
 
 
