@@ -35,7 +35,7 @@ Een Control Flow toont de logica / structuur van je code:
 1. Teken eerst een sitemap van alle pagina's
 2. Schrijf per pagina de url er bij
 3. Werk alle _routes_ uit in een Control Fow diagram
-4. Per _route_ schets je de functies die worden uitgevoerd t/m de ejs
+4. Per _route_ schets je de functies die worden uitgevoerd en de bijbehorende EJS
 5. Noteer ook welke url wordt meegestuurd met een fetch en welke data wordt doorgegeven
 
 
@@ -44,9 +44,6 @@ Een Control Flow toont de logica / structuur van je code:
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 - [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
-
-
-
 
 
 
