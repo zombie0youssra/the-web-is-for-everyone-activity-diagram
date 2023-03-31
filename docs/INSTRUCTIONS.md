@@ -1,7 +1,7 @@
 
 # The Web is for Everyone - Control Flow
 
-Schets de Control FLow van een interactieve toepassing. 
+Schets de Control Flow van een interactieve toepassing. 
 
 ## Context
 
