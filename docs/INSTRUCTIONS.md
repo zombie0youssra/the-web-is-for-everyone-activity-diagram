@@ -17,31 +17,31 @@ the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/
 
 ## Doel van deze opdracht
 
-Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden (GET)m te posten (POST) en te renderen naar HTML (EJS).
+Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden (GET), te posten (POST) en te renderen naar HTML (EJS).
 
 
 
 ## Werkwijze
 
-Opdracht: Schets de Control Flow voor de opdracht die je uitvoert voor een opdrachtgever.
-
-
+Opdracht: Schets de Control Flow voor jouw interactieve functionaliteit.
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 
 ### Ontwerpen
 
-In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wireflow en de Control Flow van een applicatie te combineren.
+een Control Flow toont de logica / structuur van je code. 
 
-1. Teken op basis van je User Stories een wireflow met alle states van de UI-Stack, de Empty state, Loading state en Error state
-2. Voeg aan de wireflow een _swimlane_ toe voor de control flow
-3. Schrijf pseudo-code voor de GET request, het renderen van de html en voor het tonen van de UI-Stack
-
+<!-- 1. Schrijf eerst de User Stories waar je mee bezig bent op.  -->
+1. Teken eerst een sitemap van alle pagina's
+2. Schrijf per pagina de _route_ er bij
+3. Werk eerst alle routes uit met een GET request en welke data er wordt meegestuurd met de render
+5. Werk daarna de POST request uit, de data die wordt meegestuurd en wat er daarna wordt gerenderd
 
 
 #### Materiaal ontwerpfase
 
+- Bron met hoe je een site masp tekent. 
 - [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
 <!-- - [What are Wireflows?](https://app.uxcel.com/courses/designing-wireframes/what-are-wireflows-804) -->
