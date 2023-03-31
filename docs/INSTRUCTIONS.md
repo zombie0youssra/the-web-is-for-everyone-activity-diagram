@@ -7,7 +7,7 @@ Schets de Control Flow van een interactieve toepassing.
 
 Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W1-02-State-Flow-en-Feedback_ wordt behandeld wat een Control Flow is en hoe je dit kan schetsen
+In het college _S08W3-01-Control-Flow_ wordt behandeld wat een Control Flow is en hoe je dit kan schetsen
 
 Deze deeltaak hoort de leertaak:
 - [
