@@ -37,7 +37,7 @@ Daarna ga je de Node-code gestructureerd uitwerken:
 3. Werk alle _routes_ uit in een Control Fow diagram
 4. Per _route_ schets je de functies en methodes die worden uitgevoerd en de bijbehorende EJS
 5. Noteer welke url wordt meegestuurd met een _fetch_, en of het een _GET_ of _POST_ is
-6. Schrijf welke _data_ wordt doorgegeven aan een volgende functie of methode
+6. Schrijf ook op welke _data_ wordt doorgegeven aan een volgende functie of methode
 
 
 #### Bronnen ontwerpfase
