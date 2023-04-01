@@ -22,7 +22,7 @@ Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden (GE
 
 
 ## Werkwijze
-Een Control Flow beschrijf je de logica / structuur van je code. De Control Flow (of Flow if Control) toont de volgorde van methodes en functies die worden uitgevoerd in de code. Zo krijg je een dudelijk overzicht van hoe de code werkt en in welke volgorde. 
+Met een Control Flow beschrijf je de logica / structuur van je code. De Control Flow (of _Flow of Control_) toont de volgorde van methodes en functies die worden uitgevoerd in de code. Zo krijg je een dudelijk overzicht van hoe de code werkt en in welke volgorde. 
 
 Voor deze opdracht schets je de Node-code van de routes, welke data wordt geladen en doorgegeven, zodat het duidelijk is hoe de server-side code werkt. Bedenk zelf een gestructureerde manier van het tekenen van alle elementen, lijnen en annotaties.
 
