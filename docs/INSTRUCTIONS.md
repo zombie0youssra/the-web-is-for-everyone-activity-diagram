@@ -32,7 +32,7 @@ Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 Eerst bepaal je welke pagina's je hebt gemaakt en welke url's daarbij horen. 
 Daarna ga je de Node-code gestructureerd uitwerken:
 
-1. Teken een _sitemap_ van de verschillende pagina's die je hebt gemaakt (overzicht, detail, formulier)
+1. Teken een _sitemap_ van de verschillende pagina's die je hebt gemaakt (overzicht-, detail- en/of formulierpagina)
 2. Schrijf per pagina de _url_ en de _parameters_ die worden meegestuurd
 3. Werk alle _routes_ uit in een Control Fow diagram
 4. Per _route_ schets je de functies en methodes die worden uitgevoerd en de bijbehorende EJS
