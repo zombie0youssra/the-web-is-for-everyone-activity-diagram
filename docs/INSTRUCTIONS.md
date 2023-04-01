@@ -42,9 +42,10 @@ Eerst bepaald je welke pagina's je hebt gemaakt en welke url's daarbij horen. Da
 #### Bronnen ontwerpfase
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
+- [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
-- [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
+<!-- - [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) -->
 
 
 
