@@ -29,7 +29,8 @@ Voor deze opdracht schets je de Node-code van de routes, welke data wordt gelade
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 ### Ontwerpen
-Eerst bepaald je welke pagina's je hebt gemaakt en welke url's daarbij horen. Daarna ga je de Node-code gestructureerd uitwerken:
+Eerst bepaal je welke pagina's je hebt gemaakt en welke url's daarbij horen. 
+Daarna ga je de Node-code gestructureerd uitwerken:
 
 1. Teken een _sitemap_ van de verschillende pagina's die je hebt gemaakt (overzicht, detail, formulier)
 2. Schrijf per pagina de _url_ en de _parameters_ die worden meegestuurd
