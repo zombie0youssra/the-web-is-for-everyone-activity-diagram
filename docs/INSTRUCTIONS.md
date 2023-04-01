@@ -22,28 +22,29 @@ Leren hoe je een Control Flow moet tekenen van je Node-code om data te laden (GE
 
 
 ## Werkwijze
+Een Control Flow beschrijf je de logica / structuur van je code. De Control Flow (of Flow if Control) toont de volgorde van methodes en functies die worden uitgevoerd. Op deze manier krijg je een dudelijk overzicht van hoe de code werkt en in wele volgorde. 
 
-Opdracht: Schets de Control Flow voor jouw interactieve functionaliteit.
+Voor deze opdracht schets je de Node-code van de routes, welke data wordt geladen en doorgegeven, zodat het duidelijk is hoe de server-side code werkt. Bedenk zelf een duidelijke manier van het tekenen van alle elementen, lijnen en annotaties.
 
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
-
 ### Ontwerpen
+Eerst bepaald je welke pagina's je hebt gemaakt en welke url's daarbij horen. Daarna ga je de Node-code gestructureerd uitwerken:
 
-Een Control Flow toont de logica / structuur van je code:
-
-1. Teken eerst een sitemap van alle pagina's
-2. Schrijf per pagina de url er bij
+1. Teken een sitemap van de verschillende pagina's die je hebt gemaakt (overzicht, detail, formulier)
+2. Schrijf per pagina de url erbij
 3. Werk alle _routes_ uit in een Control Fow diagram
 4. Per _route_ schets je de functies die worden uitgevoerd en de bijbehorende EJS
-5. Noteer ook welke url wordt meegestuurd met een fetch en welke data wordt doorgegeven
+5. Noteer welke url wordt meegestuurd met een fetch, en of het een GET of POST 
+6. Schrijf welke data wordt doorgegeven aan een volgende functie of methode
 
 
-#### Materiaal ontwerpfase
+#### Bronnen ontwerpfase
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
-- [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
+- [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
+- [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
 
 
 
