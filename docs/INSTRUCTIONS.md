@@ -42,7 +42,7 @@ Een Control Flow toont de logica / structuur van je code:
 #### Materiaal ontwerpfase
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
-- [Control Flow](https://en.wikipedia.org/wiki/Control_flow)
+- [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Activity Diagram](http://agilemodeling.com/style/activityDiagram.htm)
 
 
